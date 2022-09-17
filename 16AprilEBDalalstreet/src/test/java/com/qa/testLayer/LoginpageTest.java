@@ -15,5 +15,6 @@ public class LoginpageTest extends TestBase {
 		login.enterPassword();
 		login.clickOnLoginButton();
 		System.out.println("Login Test updated");
+		System.out.println("Login Test updated second time");
 	}
 }
